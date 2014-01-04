@@ -9,6 +9,7 @@ public class MainClass {
 		
 		System.out.println("secondLine");
 
+		System.out.println("nextLine");
 	}
 
 }
