@@ -8,6 +8,8 @@ public class MainClass {
 		System.out.println("hello git");
 		
 		System.out.println("secondLine");
+		
+		System.out.println("This is a change in the version 1");
 
 		System.out.println("nextLine");
 	}
