@@ -11,6 +11,6 @@ package pjeGitProject;
 public class SecondClass {
     
     public void ShowMessage(){
-        System.out.println("Message from Second Class ");
+        System.out.println("Message from Second Class");
     }
 }
